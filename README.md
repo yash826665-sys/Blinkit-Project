@@ -151,7 +151,7 @@ Sales were analyzed according to the year in which outlets were established.
 
 The analysis shows variation in sales across establishment years, with some older and newer outlets producing significantly different sales levels.
 
-The highest value shown in the analysis is approximately **$205K for 1998-established outlets**, while 2011 outlets recorded the lowest value at approximately **$78K**. :contentReference
+The highest value shown in the analysis is approximately **$205K for 1998-established outlets**, while 2011 outlets recorded the lowest value at approximately **$78K**.
 
 ---
 
