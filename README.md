@@ -167,7 +167,6 @@ Outlet sales were analyzed based on outlet size.
 
 Medium-sized outlets contributed the largest share of total sales. 
 
----
 
 ## 6. Sales by Outlet Location
 
