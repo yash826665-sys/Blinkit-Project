@@ -25,7 +25,7 @@ The analysis was performed using Python to clean, transform, analyze, and visual
 - Which outlet types perform best?
 - How are sales distributed across different city tiers?
 
----
+
 
 ## 📊 Key KPIs
 
