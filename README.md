@@ -56,7 +56,7 @@ These KPIs were calculated during the Python analysis and are also represented i
 
 ## 📂 Dataset
 
-The dataset contains information about:
+The dataset contains information about-
 
 - Item Fat Content
 - Item Identifier
